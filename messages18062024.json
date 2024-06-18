@@ -1,10 +1,14 @@
+[
+    {
+        "type": "flex",
+        "altText": "Outlook ไตรมาส 2/2024",
+        "contents": {
 {
   "type": "bubble",
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "
-https://www.scbeic.com/stocks/product/o0x0/83/nq/gx8683nqhi/LineOA_Outlook_2q2024.jpg"
+    "url": "https://www.scbeic.com/stocks/product/o0x0/83/nq/gx8683nqhi/LineOA_Outlook_2q2024.jpg"
 ,
     "size": "full",
     "aspectRatio": "25:28",
@@ -27,8 +31,7 @@ https://shorturl.asia/ulj9n"
         "action": {
           "type": "uri",
           "label": "Read more",
-          "uri": "
-https://shorturl.asia/ulj9n"
+          "uri": "https://shorturl.asia/ulj9n"
         },
         "color": "#bd8c66"
       },
@@ -53,3 +56,5 @@ https://shorturl.asia/ulj9n"
     "backgroundColor": "#1f172b"
   }
 }
+    }
+]
