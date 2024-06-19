@@ -1,0 +1,50 @@
+[
+{
+    "type": "flex",
+"altText": "[ทดสอบจากเบรฟ] ส่งออก-ท่องเที่ยว ดันเศรษฐกิจ CLMV ปี 2024 โตสูงขึ้น แม้ยังช้ากว่าช่วงก่อนโควิด",
+"contents": 
+{
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.scbeic.com/stocks/product/o0x0/lk/h1/gx92lkh1x8/LineOA_clmv.jpg",
+    "size": "full",
+    "aspectRatio": "20:12",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/43YTheg"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+ 
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "sharelink"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#ffffff"
+  }
+}
+}
+]
+}
+]
