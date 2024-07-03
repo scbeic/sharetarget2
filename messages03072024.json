@@ -1,19 +1,19 @@
 [
     {
         "type": "flex",
-        "altText": "เจาะลึกไฟฟ้าจากไฮโดรเจนคาร์บอนต่ำ แหล่งพลังงานใหม่ของแผนพลังงานปี 2024",
+        "altText": "Seizing the opportunities for Thai industry amid more severe decoupling",
         "contents": {
   "type": "bubble",
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/h2greenhydrogen_LineOA.jpg",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/decouplingen_LineOA.jpg",
     "size": "full",
     "aspectRatio": "20:14",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "https://shorturl.asia/qhGOA"
+      "uri": "https://shorturl.asia/R970f"
     }
   },
   "body": {
@@ -39,7 +39,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "ไฮโดรเจนคาร์บอนต่ำถูกระบุชัดเจนขึ้นในแผนพัฒนากำลังการผลิตไฟฟ้าของไทยใน PDP ฉบับใหม่ปี 2024 โดยจะเข้ามาทดแทนปริมาณก๊าซธรรมชาติราว 5% และจะเพิ่มขึ้นตามเป้าหมายของ กฟผ. เป็น 75% ภายในปี 2050 ช่วยให้บรรลุตามเป้าหมายการลดการปล่อยก๊าซเรือนกระจก",
+                "text": "Thailand can leverage this crisis as an opportunity for growth through collaborative efforts from both the government and business sectors. This can be achieved by designing tailored policies that cater to different business needs and proactively driving changes in the export sector.",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -63,7 +63,7 @@
         "action": {
           "type": "uri",
           "label": "Read more",
-          "uri": "https://shorturl.asia/qhGOA"
+          "uri": "https://shorturl.asia/R970f"
         },
         "color": "#4e2e79"
       },
