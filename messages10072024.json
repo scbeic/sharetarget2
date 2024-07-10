@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "เทคโนโลยีเข้ามามีบทบาทในร้านค้าปลีกมากขึ้น ผู้บริโภคเปลี่ยนพฤติกรรมและผู้ประกอบการต้องปรับตัวตาม",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/retailtech_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://shorturl.asia/X35nf"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผลสำรวจ SCB EIC Consumer survey 2024 พบว่า กลุ่มตัวอย่างส่วนใหญ่รู้จักและเคยใช้เทคโนโลยีในร้านค้าปลีกมาก่อน สำหรับผู้ที่ไม่เคยรู้จักเทคโนโลยีในร้านค้าปลีกมากกว่าครึ่งมีความสนใจที่จะทดลองใช้ โดยเลือกทดลองเทคโนโลยีที่ซับซ้อนน้อยกว่า",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://shorturl.asia/X35nf"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages10072024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
