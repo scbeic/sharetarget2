@@ -1,0 +1,92 @@
+
+[
+    {
+        "type": "flex",
+        "altText": "ธุรกิจทองคำไทย ไปต่ออย่างไรให้ยิ่งมั่งคั่ง",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/gold_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://shorturl.asia/DkJnI"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "จากการที่ไทยเป็นผู้ผลิตและผู้ค้าสินค้าทองคำขั้นปลาย ส่งผลให้การบริหารจัดการต้นทุน การเพิ่มรายได้ทั้งจากการสร้างมูลค่าเพิ่มให้กับสินค้า และการขยายฐานลูกค้าใหม่ ๆ ยังเป็นกลยุทธ์ที่สำคัญ เพื่อดึงดูดกำลังซื้อจากกลุ่มผู้ซื้อเครื่องประดับทองคำ ที่นิยมซื้อเพื่อสะท้อนความมั่งคั่ง และเก็บสะสม ซึ่งเป็นกลุ่มฐานผู้ซื้อเครื่องประดับทองคำในปัจจุบัน",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://shorturl.asia/DkJnI"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages11072024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
