@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ได้เวลาปลุกปั้นอาหารไทย … ให้อิ่มนี้ มีอิทธิพล",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/foodpower_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://shorturl.asia/e7RxW"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "“อาหาร” เป็นหนึ่งใน Soft power 5 ด้าน ที่มีศักยภาพสูงในการสร้างโอกาสการเติบโตให้กับเศรษฐกิจไทย เพราะนอกจากอาหารไทยจะมีชื่อเสียงและเป็นที่รู้จักดีในตลาดโลกแล้ว ไทยยังมีศักยภาพและปัจจัยพื้นฐานที่แข็งแกร่ง โดยไทยควรเรียนรู้จากประเทศต้นแบบที่ทรงพลังและประสบความสำเร็จในเรื่องการส่งออก Soft power",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://shorturl.asia/e7RxW"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages24072024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
