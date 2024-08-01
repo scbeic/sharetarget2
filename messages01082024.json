@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "The drive to decide : ไขข้อสงสัย…จะซื้อรถใหม่ คันไหนยิ่งขับ ยิ่งคุ้ม?",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/drive-to-decide_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://shorturl.asia/4M8oa"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การเปรียบเทียบต้นทุนการถือครองรถยนต์นั่งประเภทต่าง ๆ ชี้ว่า รถ BEV เป็นตัวเลือกที่ตอบโจทย์ความคุ้มค่าในระยะยาวได้ดีที่สุด เพราะค่าใช้จ่ายการชาร์จไฟฟ้าและค่าซ่อมบำรุงที่อยู่ในระดับต่ำสามารถชดเชยภาระเบี้ยประกันที่โดยรวมจะแพงกว่ารถประเภทอื่น ๆ ราว 50% ตลอดอายุการใช้งาน",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://shorturl.asia/4M8oa"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages01082024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
