@@ -1,0 +1,46 @@
+[
+    {
+        "type": "flex",
+        "altText": "ร่วมตอบแบบสำรวจ "ตรวจสุขภาพเศรษฐกิจไทย ไหวหรือไม่ผ่านมุมมองผู้บริโภค"",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/Banner_Consumer_Survey_2024_LineOA-SCB_EIC-07.png",
+    "size": "full",
+    "aspectRatio": "25:40",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.surveymonkey.com/r/eicconsumersurvey"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages14072024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#1f172b"
+  }
+}
+    }
+]
