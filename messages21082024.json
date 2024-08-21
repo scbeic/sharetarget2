@@ -1,7 +1,7 @@
 [
     {
         "type": "flex",
-        "altText": "The drive to decide : ไขข้อสงสัย…จะซื้อรถใหม่ คันไหนยิ่งขับ ยิ่งคุ้ม?",
+        "altText": "SCB EIC คาด กนง. จะเริ่มลดดอกเบี้ยในไตรมาส 4",
         "contents": {
   "type": "bubble",
   "size": "giga",
@@ -13,7 +13,7 @@
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "https://shorturl.asia/4M8oa"
+      "uri": "https://bit.ly/4fU46Vx"
     }
   },
   "body": {
@@ -39,7 +39,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "การเปรียบเทียบต้นทุนการถือครองรถยนต์นั่งประเภทต่าง ๆ ชี้ว่า รถ BEV เป็นตัวเลือกที่ตอบโจทย์ความคุ้มค่าในระยะยาวได้ดีที่สุด เพราะค่าใช้จ่ายการชาร์จไฟฟ้าและค่าซ่อมบำรุงที่อยู่ในระดับต่ำสามารถชดเชยภาระเบี้ยประกันที่โดยรวมจะแพงกว่ารถประเภทอื่น ๆ ราว 50% ตลอดอายุการใช้งาน",
+                "text": "SCB EIC ประเมินว่า กนง. จะเริ่มลดดอกเบี้ยในไตรมาส 4 และจะลดอีกครั้งในไตรมาส 1/2025 เพื่อช่วยผ่อนคลายภาวะการเงินในประเทศ หลังจากภาวะการเงินตึงตัวขึ้นมากในช่วงที่ผ่านมา ประกอบกับความเปราะบางทางการเงินของภาคธุรกิจและครัวเรือนที่มีอยู่เดิม ส่งผลให้แรงส่งเศรษฐกิจไทยจากอุปสงค์ในประเทศแผ่วลงจะเห็นชัดเจนขึ้นในช่วงปลายปีนี้",
                 "wrap": true,
                 "color": "#666666",
                 "size": "sm",
@@ -63,7 +63,7 @@
         "action": {
           "type": "uri",
           "label": "Read more",
-          "uri": "https://shorturl.asia/4M8oa"
+          "uri": "https://bit.ly/4fU46Vx"
         },
         "color": "#4e2e79"
       },
@@ -74,7 +74,7 @@
         "action": {
           "type": "uri",
           "label": "Share",
-          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages01082024.json"
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages21082024.json"
         }
       },
       {
