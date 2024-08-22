@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "SME ไทยยิ่งแข่งยิ่งแพ้…ต้องแก้อย่างไรให้ตรงจุด",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/drive-to-decide_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/3WY3uFX"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SMEs มีบทบาทสำคัญอย่างมากต่อเศรษฐกิจไทย เนื่องจากมีจำนวนมากถึง 98% ของกิจการทั้งหมด และจ้างงานกว่า 72% ของการจ้างงานทั้งหมด  แต่ SMEs กลับสร้างรายได้เพียง 18% ของรายได้ภาคธุรกิจทั้งประเทศ และสร้างมูลค่าเพิ่มใน GDP ได้ราว 35% ซึ่งถือว่าน้อยกว่ากลุ่มประเทศพัฒนาแล้วที่มีสัดส่วนนี้มากกว่าครึ่งหนึ่ง",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/3WY3uFX"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages22082024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
