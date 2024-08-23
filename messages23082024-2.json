@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "เศรษฐกิจไทยปีหน้าลุ้นเหนื่อยโตต่ำ การบริโภคและลงทุนเอกชนซบเซา การเมืองดึงนโยบายไม่แน่นอน,
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/monthly-aug-2024_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/4dUd6bp"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC คงประมาณการเศรษฐกิจไทยปี 2024 ที่ 2.5% และปรับลดมุมมองเศรษฐกิจปี 2025 เหลือ 2.6% หลังภาพรวมตัวเลขเศรษฐกิจไทยไตรมาส 2 ออกมาใกล้เคียงที่ประเมินไว้ แต่แรงส่งเศรษฐกิจรายองค์ประกอบต่างไปบ้าง โดยเศรษฐกิจไทยปีนี้ยังได้แรงส่งหลักจาก 1) ภาคท่องเที่ยว 2. การบริโภคเอกชนตามมาตรการกระตุ้นการท่องเที่ยวชั่วคราว",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/4dUd6bp"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages23082024-2.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
