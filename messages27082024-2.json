@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "วัฏจักรสินค้าอิเล็กทรอนิกส์ขาขึ้นและทองคำดันส่งออก ก.ค. ขยายตัวสูงสุดในรอบกว่า 2 ปี",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/export-jul_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/3X0zzNk"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การส่งออกเดือน ก.ค. 2024 ขยายตัว 15.2%YOY สูงสุดในรอบ 28 เดือน SCB EIC ประเมินมูลค่าการส่งออกไทยปีนี้จะกลับมาขยายตัวได้ 2.6% จากที่เคยหดตัวในปีก่อน และจะขยายตัวต่อเนื่องได้เล็กน้อยในปีหน้า โดยปรับประมาณการการส่งออกปี 2025 ขึ้นเป็น 2.8% (เดิม 2.6%)",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/3X0zzNk"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages27082024-2.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
