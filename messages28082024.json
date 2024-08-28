@@ -7,16 +7,14 @@
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "
-https://raw.githubusercontent.com/scbeic/sharetarget2/main/EIC_LineOA_2023_Infocus.jpg"
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/EIC_LineOA_2023_Infocus.jpg"
 ,
     "size": "full",
     "aspectRatio": "20:14",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "
-https://bit.ly/3WYpkJn"
+      "uri": "https://bit.ly/3WYpkJn"
     }
   },
   "body": {
@@ -66,8 +64,7 @@ https://bit.ly/3WYpkJn"
         "action": {
           "type": "uri",
           "label": "Read more",
-          "uri": "
-https://bit.ly/3WYpkJn"
+          "uri": "https://bit.ly/3WYpkJn"
         },
         "color": "#4e2e79"
       },
@@ -78,8 +75,7 @@ https://bit.ly/3WYpkJn"
         "action": {
           "type": "uri",
           "label": "Share",
-          "uri": "
-https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages28082024.json"
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages28082024.json"
         }
       },
       {
