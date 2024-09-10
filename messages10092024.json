@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "พลิกโฉมอุตสาหกรรมอิเล็กทรอนิกส์ไทย … ก้าวต่ออย่างไร ในวันที่ลมเปลี่ยนทิศ",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/thai-ee_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/Electronics-industry"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ไทยจำเป็นต้องเร่งปรับตัว เพื่อรักษาโอกาสในการเป็นส่วนหนึ่งของห่วงโซ่อุปทานการผลิตสินค้าอิเล็กทรอนิกส์โลก SCB EIC มองว่าการที่ไทยจะก้าวขึ้นมาเป็นผู้เล่นเบอร์ต้นของอาเซียนได้นั้น ไทยจำเป็นต้องเร่งปรับตัวและพัฒนาในสิ่งที่ขาดโดยจะต้องมีการวางแผนกลยุทธ์",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/Electronics-industry"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages10092024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
