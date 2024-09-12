@@ -1,5 +1,9 @@
 [
     {
+        "type": "flex",
+        "altText": "Outlook ไตรมาส 3/2024",
+        "contents": 
+    {
   "type": "bubble",
   "size": "giga",
   "hero": {
@@ -50,4 +54,5 @@
     "backgroundColor": "#1f172b"
   }
 }
+ }       
 ]
