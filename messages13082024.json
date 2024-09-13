@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "เจาะลึกตลาดรถ Hybrid พระรองที่มาแรง",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/hybridcar_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/Trend-Hybrid-Car"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แม้ว่ายอดขายรถ BEV จะเติบโตอย่างก้าวกระโดดในระยะ 2-3 ปีที่ผ่านมา แต่ความผันผวนในตลาดที่เกิดอย่างต่อเนื่อง ทั้งในแง่การปรับลดราคาขายลงบ่อยครั้ง เบี้ยประกันที่ยังอยู่ในระดับสูง รวมถึงความไม่แน่นอนของอัตราการเสื่อมมูลค่า มีผลทำให้ผู้บริโภคบางส่วนกังวล และหันมาสนใจพระรองอย่างรถยนต์ Hybrid กันมากขึ้น",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/Trend-Hybrid-Car"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages13082024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
