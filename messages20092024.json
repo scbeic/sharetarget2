@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ธุรกิจโรงไฟฟ้าปี 2025 : พลังงานหมุนเวียนเติบโต โรงไฟฟ้าเชื้อเพลิงฟอสซิลต้องเร่งปรับตัว",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/insight-powersolarpv_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/POWERSOLAR_PV"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ความต้องการใช้ไฟฟ้าในไทยปี 2025-2028 ยังคงเติบโตตามการเติบโตของเศรษฐกิจ โดยแนวโน้มของการผลิตไฟฟ้านอกระบบทยอยเพิ่มสัดส่วนมากขึ้น ส่วนหนึ่งมาจากการผลิตไฟฟ้าใช้เอง โดยเฉพาะในกลุ่มพลังงานหมุนเวียน ทั้งนี้คาดว่าการใช้ไฟฟ้าทั้งในและนอกระบบการไฟฟ้าจะขยายตัว 2.5%YOY ในปี 2025 และ 3.0% (CAGR) ในปี 2026-2028",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/POWERSOLAR_PV"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages20092024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
