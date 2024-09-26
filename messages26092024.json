@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Electing Energy Futures : ศึกชิงทำเนียบขาว กับนโยบายด้านพลังงาน เปลี่ยนใหม่ หรือไปต่อ",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/uselection_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/MONEYBANKING_SEP_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แม้ว่านโยบายด้านสิ่งแวดล้อมของพรรค Democrat และพรรค Republican  จะมีความแตกต่างกันอย่างมาก แต่การปรับเปลี่ยนทิศทางของนโยบายที่ได้วางไว้ก่อนหน้าของไบเดน เป็นเรื่องที่ท้าทายอย่างมาก ซึ่งการสนับสนุนจากภาคธุรกิจและประชาชนล้วนเป็นปัจจัยสำคัญในการบรรลุเป้าหมายทิศทางด้านสิ่งแวดล้อม",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/MONEYBANKING_SEP_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages26092024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
