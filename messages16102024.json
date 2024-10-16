@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "กนง. เริ่มลดดอกเบี้ย และมีแนวโน้มจะลดอีกครั้งภายในไตรมาส 1 ปีหน้า",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/flashmpc-oct_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/Thai-Policy-rate-EICLINE"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "กนง. มีมติไม่เป็นเอกฉันท์ 5 ต่อ 2 เสียง ให้ลดอัตราดอกเบี้ยนโยบายลง 0.25% มาอยู่ที่ 2.25% โดย 2 เสียงเห็นควรให้คงอัตราดอกเบี้ยที่ 2.50% SCB EIC ประเมินว่าจะเห็น กนง. ปรับลดดอกเบี้ยอีกครั้งภายในไตรมาส 1/2025 เพื่อผ่อนคลายภาวะการเงินเพิ่มเติม",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/Thai-Policy-rate-EICLINE"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages16102024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
