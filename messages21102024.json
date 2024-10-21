@@ -24,17 +24,6 @@
     "contents": [
       {
         "type": "button",
-        "style": "primary",
-        "height": "sm",
-        "action": {
-          "type": "uri",
-          "label": "Read more",
-          "uri": "https://forms.office.com/r/NqZ1PQQhKf"
-        },
-        "color": "#bd8c66"
-      },
-      {
-        "type": "button",
         "style": "secondary",
         "height": "sm",
         "action": {
