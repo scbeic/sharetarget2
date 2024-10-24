@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "RESIDENTIAL REAL ESTATE INDUSTRY ANALYSIS AND OUTLOOK แนวโน้มอุตสาหกรรมที่อยู่อาศัย",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bi-res-realestate_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/BUSINESSINTELLIGENCE_RESIDENTIAL_ESTATE_OCT_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ตลาดที่อยู่อาศัยในปี 2024 มีแนวโน้มหดตัว จากปัจจัยกดดันด้านการฟื้นตัวของกำลังซื้อ และในปี 2025 ยังคงหดตัวต่อเนื่องในอัตราที่ลดลง โดยคอนโดมิเนียมยังคงได้รับความสนใจมากกว่าที่อยู่อาศัยประเภทอื่น เนื่องจากพฤติกรรมผู้ซื้อมีแนวโน้มให้ความสำคัญกับทำเล",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/BUSINESSINTELLIGENCE_RESIDENTIAL_ESTATE_OCT_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages24102024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
