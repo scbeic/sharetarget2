@@ -1,0 +1,47 @@
+[
+    {
+        "type": "flex",
+        "altText": "SCB EIC Client Survey 2024 Just 5 minute can help improve SCB EIC!",
+        "contents": 
+    {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/AW_Client_survey_2024-04_EN.png",
+    "size": "full",
+    "aspectRatio": "25:38",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://forms.office.com/r/7feRLz4z6h"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages29102024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#1f172b"
+  }
+}
+ }       
+]
