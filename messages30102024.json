@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Soft landing หรือ Hard landing : เศรษฐกิจสหรัฐฯ จะลงจอดแบบนิ่มหรือกระแทกแรง?",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/econlanding_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_OCT_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ในช่วงไตรมาสสามที่ผ่านมาเริ่มมีความกังวลกันมากว่าเศรษฐกิจสหรัฐฯ จะชะลอตัวลงเร็วจนเข้าสู่ภาวะถดถอยรุนแรง หรือที่เรียกกันว่า “Hard landing” เนื่องจากข้อมูลอัตราการว่างงานสหรัฐฯ ในเดือน ก.ค. 2024 ได้พุ่งขึ้นสู่ระดับ 4.3% จากระดับ 3.5% ในเดือน ก.ค. 2023 อย่างไรก็ดี SCB EIC มองว่าโอกาสที่ภาพรวมเศรษฐกิจสหรัฐฯ จะ Hard landing มีต่ำกว่า 30%",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_OCT_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages30102024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
