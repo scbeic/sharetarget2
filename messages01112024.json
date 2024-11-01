@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Pet tourism : เทรนด์ท่องเที่ยวพร้อมเพื่อนซี้สี่ขา",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/pet-tourism_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/INFOCUS_PETTOURISM_NOV_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เทรนด์ Pet tourism หรือการท่องเที่ยวพร้อมสัตว์เลี้ยง เป็นรูปแบบการท่องเที่ยวใหม่ที่กำลังได้รับความนิยมมากขึ้นในหมู่ผู้มีสัตว์เลี้ยงโดยเฉพาะจากกระแส Pet humanization ซึ่งทำให้เจ้าของอยากพาสัตว์เลี้ยงของตนออกไปท่องเที่ยวเพื่อทำกิจกรรม พร้อมทั้งได้ใช้เวลาและสร้างประสบการณ์พิเศษร่วมกันมากขึ้น",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/INFOCUS_PETTOURISM_NOV_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages01112024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
