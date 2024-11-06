@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "รถไฟฟ้าสายสีส้มส่วนตะวันออก...ทำเลใหม่เปิดประตูสู่การพัฒนาโครงการบ้าน และคอนโด",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/orange-line_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/MRTOrangeline"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รถไฟฟ้าสายสีส้ม ช่วงศูนย์วัฒนธรรมฯ-มีนบุรี (ส่วนตะวันออก) มีแผนเปิดให้บริการในช่วงปลายปี 2027 หรือไม่เกินต้นปี 2028 ครอบคลุมพื้นที่กรุงเทพฯ ชั้นกลาง ตั้งแต่ศูนย์วัฒนธรรมแห่งประเทศไทย แยกลำสาลี ไปจนถึงพื้นที่กรุงเทพฯ ชั้นนอก ฝั่งตะวันออกเฉียงเหนือ เป็นการเปิดโอกาสสำหรับการพัฒนาโครงการที่อยู่อาศัยในพื้นที่ใหม่ ๆ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/MRTOrangeline"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages06112024-2.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
