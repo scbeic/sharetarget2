@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "อุตสาหกรรมยานยนต์ไทยจะผ่านจุดต่ำสุดไปได้ภายในช่วงครึ่งหลังของปี 2568 จากนั้นจะทยอยฟื้นตัวอย่างค่อยเป็นค่อยไป",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/drive-to-decide_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/INDUSTRYINSIGHT_AUTOMOTIVE_NOV_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อุตสาหกรรมยานยนต์กำลังเผชิญแรงกดดันจากความต้องการในประเทศที่ยังไม่มั่นคง ทำให้ตลาดรถยนต์และจักรยานยนต์มีแนวโน้มฟื้นตัวช้า ส่วนกลุ่มยานยนต์เชิงพาณิชย์ คาดว่าจะกลับมาคึกคักขึ้นได้ เพราะอานิสงส์จากการค้าชายแดนและข้ามพรมแดน รวมถึงภาคการท่องเที่ยวที่กลับมาคึกคักอย่างต่อเนื่อง",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/INDUSTRYINSIGHT_AUTOMOTIVE_NOV_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages07112024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
