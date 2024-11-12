@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "อุตสาหกรรมอาหารทะเลมีแนวโน้มฟื้นตัวอย่างช้า ๆ ท่ามกลางเศรษฐกิจโลกที่ยังคงเปราะบางและปัจจัยเสี่ยงด้านลบที่เพิ่มสูงขึ้น",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/insight-seafood_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/INDUSTRYINSIGHT_SEAFOOD_NOV_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การเติบโตของอุตสาหกรรมอาหารทะเลในปี 2568 มีแนวโน้มดีขึ้นเมื่อเทียบกับปีนี้ เนื่องจากเศรษฐกิจและกำลังซื้อของผู้บริโภคค่อย ๆ ฟื้นตัวอย่างช้า ๆ อย่างไรก็ตาม ผู้ประกอบการยังต้องระวังความเสี่ยงจากเศรษฐกิจโลกที่ยังไม่แน่นอนและอาจเติบโตได้ไม่ดีเท่าที่หวังไว้ รวมถึงปัญหาความขัดแย้งภูมิรัฐศาสตร์ที่อาจทวีความรุนแรงขึ้น",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/INDUSTRYINSIGHT_SEAFOOD_NOV_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages12112024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
