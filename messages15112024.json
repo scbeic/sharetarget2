@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ส่องตลาด Ultra-luxury … ในยุคที่ผู้บริโภคโหยหาความหรูหราขั้นสุด",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/luxury_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_PRACHACHART_NOV_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การใช้ชีวิตแบบหรูหราขั้นสุด หรือ Ultra-luxurious life กำลังกลายเป็นเมกะเทรนด์และโอกาสทางธุรกิจที่น่าจับตามอง เพราะนอกจากจะเป็น Segment ที่เติบโตสวนกระแสเศรษฐกิจที่ซบเซาแล้ว ยังมีแนวโน้มเติบโตได้ดีต่อเนื่องในอนาคตอีกด้วย นั่นเป็นเพราะลูกค้าเป้าหมายของ Segment นี้ คือกลุ่มประชากรที่มีกำลังซื้อสูง",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_PRACHACHART_NOV_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages15112024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
