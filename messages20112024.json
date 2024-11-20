@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Challenges to Thai consumption : การบริโภคภาคเอกชนของไทย กับปัจจัยกดดันในระยะข้างหน้า",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/drive-to-decide_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_NOV_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การบริโภคภาคเอกชนในระยะข้างหน้าจะเผชิญแรงกดดันมากขึ้น และเริ่มเห็นสัญญาณที่แผ่วลงจากดัชนีความเชื่อมั่นผู้บริโภคที่ปรับตัวลดลงต่อเนื่อง ทำให้การบริโภคภาคเอกชนไทยที่เคยเป็น “พระเอก” ของเศรษฐกิจอาจโดนลดบทบาทลงและขยายตัวได้น้อยลงในระยะข้างหน้า",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_NOV_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages20112024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
