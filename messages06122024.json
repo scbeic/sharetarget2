@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ก้าวแรกมุ่งสู่ประเทศสมาชิก OECD ... ไทยจะได้อะไร?",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/OECD_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_OECD_TODAYBIZVIEW_DEC_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ความมุ่งมั่นของประเทศไทยที่จะเริ่มเข้ากระบวนการ Accession เพื่อเป็นสมาชิกของ OECD ครั้งนี้ ถือว่าเป็นสัญญาณความตั้งใจของรัฐบาลที่จะทำให้ประเทศไทยยกระดับความสามารถในการแข่งขันได้สำเร็จ เพราะที่ผ่านมาไทยประสบปัญหาความสามารถในการแข่งขันถดถอยลงเรื่อย ๆ แต่ยังไม่สามารถดำเนินการแก้ไขเองได้ให้เห็นผลเป็นรูปธรรม",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_OECD_TODAYBIZVIEW_DEC_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages06122024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
