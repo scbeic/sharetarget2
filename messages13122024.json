@@ -1,7 +1,7 @@
 [
     {
         "type": "flex",
-        "altText": "Outlook ไตรมาส 4/2024",
+        "altText": "เชิญร่วมงานแถลงข่าวเศรษฐกิจปีหน้า ลงทะเบียนฟรี! ที่นั่งมีจำนวนจำกัด",
         "contents": 
     {
   "type": "bubble",
@@ -10,7 +10,7 @@
     "type": "image",
     "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/outlook-invitation-q4.jpg",
     "size": "full",
-    "aspectRatio": "25:27",
+    "aspectRatio": "25:34",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
@@ -28,7 +28,7 @@
         "height": "sm",
         "action": {
           "type": "uri",
-          "label": "Read more",
+          "label": "Register",
           "uri": "https://forms.office.com/r/AA9qee5WdB"
         },
         "color": "#bd8c66"
