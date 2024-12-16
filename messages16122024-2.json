@@ -13,7 +13,7 @@
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "https://bit.ly/CLMV_OUTLOOK_TH_DEC_2024"
+      "uri": "https://bit.ly/CLMV_OUTLOOK_EN_DEC_2024"
     }
   },
   "body": {
@@ -63,7 +63,7 @@
         "action": {
           "type": "uri",
           "label": "Read more",
-          "uri": "https://bit.ly/CLMV_OUTLOOK_TH_DEC_2024"
+          "uri": "https://bit.ly/CLMV_OUTLOOK_EN_DEC_2024"
         },
         "color": "#4e2e79"
       },
