@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ปกป้องและฟื้นฟูธรรมชาติ (Nature positive) เป้าหมายความยั่งยืนใหม่ ที่ธุรกิจไทยไม่ควรมองข้าม",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/nature-positive_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_PRACHACHART_NATUREPOSITIVE_DEC_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Nature positive เป็นเป้าหมายของประชาคมโลกที่จะยุติการสูญเสียทรัพยากรธรรมชาติและช่วยฟื้นฟูธรรมชาติให้เริ่มกลับมาอยู่ในระดับที่ดีกว่าปี 2020 ภายในปี 2030 และช่วยฟื้นฟูให้ธรรมชาติคืนสู่ภาวะปกติภายในปี 2050 หรือหากจะพูดให้เข้าใจง่าย ๆ ก็คือ ความอุดมสมบูรณ์ของธรรมชาติโลกในปี 2030 จะต้องดีกว่าปี 2020 และต้องดีขึ้นต่อเนื่อง",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_PRACHACHART_NATUREPOSITIVE_DEC_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages17122024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
