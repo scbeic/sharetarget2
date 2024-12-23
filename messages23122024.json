@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "TUNA INDUSTRY ANALYSIS AND OUTLOOK แนวโน้มอุตสาหกรรมทูน่า",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bi-tuna_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/BUSINESSINTELLIGENCE_TUNA_DEC_2024"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "แนวโน้มอุตสาหกรรมทูน่าในปี 2025 คาดว่าจะปรับตัวดีขึ้นต่อเนื่องจากปีนี้ โดยคาดว่ามูลค่าการส่งออกทูน่ากระป๋องจะขยายตัวที่ 6.2%YOY สอดคล้องกับภาพรวมแนวโน้มเศรษฐกิจโลกที่ทยอยฟื้นตัวดีขึ้นตามลำดับ นอกจากนี้ การส่งออกที่ดีขึ้นยังเป็นผลจากการเติบโตของความต้องการบริโภคอาหารฮาลาล",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/BUSINESSINTELLIGENCE_TUNA_DEC_2024"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages23122024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
