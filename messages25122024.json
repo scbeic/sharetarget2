@@ -10,7 +10,7 @@
     "type": "image",
     "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/outlook-fullreport-4q24_LineOA.jpg",
     "size": "full",
-    "aspectRatio": "25:28",
+    "aspectRatio": "25:32",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
