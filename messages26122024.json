@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Unlocking Thailand's Potential : ปลดล็อกศักยภาพไทย ก้าวสู่ผู้นำอุตสาหกรรมเครื่องมือแพทย์",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/unlocking-th_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/Medical-device-SCBEIC"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC คาดการณ์ว่าไทยมีศักยภาพที่จะใช้ประโยชน์จากเมกะเทรนด์ระดับโลกในการพัฒนาและสร้างการเติบโตในอุตสาหกรรมเครื่องมือแพทย์ จากปัจจัยหนุน 3 ด้าน คือ 1.การเป็นพื้นที่เซฟโซนด้านการลงทุน 2.การเป็นศูนย์กลางการท่องเที่ยวเชิงการแพทย์ 3.การสนับสนุนจากภาครัฐอย่างเต็มที่",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/Medical-device-SCBEIC"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages26122024.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
