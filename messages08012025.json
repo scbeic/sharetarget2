@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "CEMENT INDUSTRY ANALYSIS AND OUTLOOK แนวโน้มอุตสาหกรรมปูนซีเมนต์",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bi-cement_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/CEMENT_INDUSTRY"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อุปสงค์การใช้งานปูนซีเมนต์ปี 2025 มีโอกาสเติบโตจากโครงการก่อสร้างภาครัฐ ขณะที่ราคาปูนซีเมนต์ปรับตัวลดลงต่อเนื่องตามแนวโน้มราคาพลังงานโลก โดยปริมาณการใช้งานปูนซีเมนต์ในประเทศคาดว่าจะอยู่ที่ 29.4 ล้านตัน (+2.7%YOY) ทั้งนี้การพัฒนาผลิตภัณฑ์ที่เป็นมิตรต่อสิ่งแวดล้อม จะเพิ่มศักยภาพการแข่งขันให้แก่ผู้ผลิตปูนซีเมนต์ไทย",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/CEMENT_INDUSTRY"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages08012025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
