@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Will Japan escape the deflation trap sustainably? ญี่ป่นจะหลุดจากกับดักเงินฝืดได้อย่างยั่งยืนหรือไม่?",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bf-jn-inflation_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/Brief-THAIRATHMONEY"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "หลังเกิดวิกฤตฟองสบู่ในปี 1992 เศรษฐกิจญี่ปุ่นเติบโตต่ำและเกิดภาวะเงินฝืด จนกลายเป็นวัฏจักรเงินฝืด หล่อหลอมอยู่ในความคิดของชาวญี่ปุ่นมานานว่า สภาวะเงินเฟ้อในประเทศเป็นสิ่งที่เกิดขึ้นได้ยาก จนมาถึงจุดเปลี่ยนตั้งแต่ช่วงปลายปี 2022 ที่คนญี่ปุ่นเริ่มสัมผัสกับเงินเฟ้ออีกครั้ง",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_JAN_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages20012025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
