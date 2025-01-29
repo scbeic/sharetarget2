@@ -10,7 +10,7 @@
     "type": "image",
     "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/AW_Client_survey_2024-02_TH.png",
     "size": "full",
-    "aspectRatio": "25:38",
+    "aspectRatio": "25:39",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
