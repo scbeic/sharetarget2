@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "SCB EIC มองเศรษฐกิจไทยครึ่งปีแรกยังมีแรงส่งและปัจจัยบวกจากมาตรการกระตุ้นเศรษฐกิจ แต่ครึ่งปีหลังจะถูกกดดันจากผลกระทบของนโยบายกีดกันการค้าของสหรัฐฯ ที่จะทยอยออกมา",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/monthly-jan25_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/SCBEIC-ThaiEconomy2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC ประเมินโมเมนตัมเศรษฐกิจไทยช่วงครึ่งแรกของปีนี้จะดีต่อเนื่องจากช่วงปลายปี 2567 และยังพอมีปัจจัยบวก จากการทยอยออกมาตรการกระตุ้นเศรษฐกิจ อย่างไรก็ดี เศรษฐกิจไทยช่วงครึ่งหลังของปีจะขยายตัวชะลอลง สาเหตุสำคัญมาจากผลของมาตรการกีดกันทางการค้าของสหรัฐฯ ที่จะกระทบการค้าโลกรุนแรงขึ้นในช่วงครึ่งปีหลัง",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/SCBEIC-ThaiEconomy2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages30012025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
