@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Into fiscal constraint : แผนการคลังระยะปานกลางใหม่ พระเอกปี 2025 มาพร้อมภาระอนาคต",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bf-into-fiscal_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_FISCAL_FEB_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สถานะทางการคลังของไทยมีทิศทางแย่ลงมากนับตั้งแต่วิกฤติโควิด เนื่องจากการขาดดุลงบประมาณและเศรษฐกิจที่ขยายตัวต่ำลง ดังนั้น การจัดทำแผนปฏิรูปการคลังผ่านการจัดสรรงบประมาณให้คุ้มค่า รวมถึงการเสริมสร้างความสามารถทางเศรษฐกิจเพื่อเพิ่มรายได้ภาครัฐคือประเด็นสำคัญ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_MONEYANDBANKING_FISCAL_FEB_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages17022025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
