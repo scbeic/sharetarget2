@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ค่าใช้จ่ายโตไวกว่าเงินเฟ้อ เรื่องจริงหรือคิดไปเอง?",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/export-en-nov_LineOA.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/Thailand-Inflation"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อัตราเงินเฟ้อไทยในปัจจุบันไม่ได้สะท้อนการเปลี่ยนแปลงของปริมาณต่อหน่วยบริโภคจริงที่ลดลง แม้ราคาจะไม่เปลี่ยนแปลง แต่เท่ากับว่าเราก็ยังต้องจ่ายเงินมากขึ้นเพื่อให้ได้สินค้าในปริมาณเท่าเดิม ดังนั้น การปรับปรุงการจัดเก็บเงินเฟ้อให้คำนึงถึงการเปลี่ยนแปลงทั้งด้านราคาและปริมาณ เพื่อให้สะท้อนค่าครองชีพจริงของผู้บริโภค",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/Thailand-Inflation"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages05032025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
