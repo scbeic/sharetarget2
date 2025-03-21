@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "The series of “Conscious Consumerism” (EP.2) Sustainable eating … ได้เวลาเปลี่ยนมื้อนี้ ให้อิ่มท้องและอิ่มใจ",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_sustainable-eating_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/INFOCUS_SUSTAINABLE_EATING_MAR_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผลสำรวจพฤติกรรมผู้บริโภคของ SCB EIC พบว่า ประเด็นที่เกี่ยวข้องกับเรื่องสิ่งแวดล้อมเป็นสิ่งที่ผู้บริโภคชาวไทยในทุกช่วงวัย (Generation) ให้ความสำคัญเป็นลำดับแรกในการพิจารณาเลือกซื้อผลิตภัณฑ์อาหารและเครื่องดื่มที่มีความยั่งยืน",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/INFOCUS_SUSTAINABLE_EATING_MAR_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages21032025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
