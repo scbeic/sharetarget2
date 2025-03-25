@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "มาตรการผ่อนคลายเกณฑ์ LTV ชั่วคราวมีความเหมาะสมต่อตลาดที่อยู่อาศัยที่ซบเซา แต่อาจมีผลจำกัด … คาดตลาดที่อยู่อาศัยปี 2025 ยังหดตัว แต่เป็นการหดตัวในอัตราที่ลดลงเมื่อเทียบกับ 2 ปีก่อนหน้า",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_ltv_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/LTV2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC มองว่า มาตรการผ่อนคลายเกณฑ์ LTV ชั่วคราวที่ออกมาในครั้งนี้ เป็นส่วนหนึ่งของการลดการตึงตัวของภาวะการเงิน ซึ่งถือว่ามีความเหมาะสมกับสภาพตลาดที่อยู่อาศัยที่ซบเซา อย่างไรก็ดี ผลบวกต่อการกระตุ้นยอดขายที่อยู่อาศัยจะมีค่อนข้างจำกัด",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/LTV2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages25032025-2.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
