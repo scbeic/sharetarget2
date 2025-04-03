@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "DECORATIVE PAINT INDUSTRY ANALYSIS AND OUTLOOK แนวโน้มอุตสาหกรรมการผลิตสีทาอาคาร",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bi_decorativepaint_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/BUSINESSINTELLIGENCE_DECORATIVEPAINT_APR_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ในปี 2025 มูลค่าตลาดสีทาอาคารมีแนวโน้มฟื้นตัวมาอยู่ที่ราว 2.76 หมื่นล้านบาท (+2.2%YOY) ตามการก่อสร้างและปรับปรุงพื้นที่เชิงพาณิชย์ของภาคเอกชน อาทิ พื้นที่ค้าปลีก อาคารสำนักงาน โรงแรม แต่ยังคงมีความท้าทายจากตลาดที่อยู่อาศัยที่คาดว่าจะยังคงหดตัว",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/BUSINESSINTELLIGENCE_DECORATIVEPAINT_APR_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages03042025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
