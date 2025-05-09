@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "STEEL INDUSTRY ANALYSIS AND OUTLOOK แนวโน้มอุตสาหกรรมเหล็ก",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bi_steel2_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/BUSINESSINTELLIGENCE_STEEL_OUTLOOK_MAY_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ปี 2025 ปริมาณการใช้งานเหล็กของไทยมีแนวโน้มอยู่ที่ 16.2 ล้านตัน (+1.7%YOY) ขณะที่ราคาเหล็กโดยเฉลี่ยยังคงมีแนวโน้มลดลงจากปีก่อน 4.8%YOY โดยอุตสาหกรรมเหล็กไทยยังคงเผชิญความท้าทายทั้งการทะลักเข้ามาของเหล็กจีน และนโยบาย Trump 2.0 ที่มีการเพิ่มภาษีนำเข้าเหล็กเป็น 25%",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/BUSINESSINTELLIGENCE_STEEL_OUTLOOK_MAY_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages09052025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
