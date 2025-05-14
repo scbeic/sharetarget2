@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Consumer Biotechnology : เทคโนโลยีชีวภาพที่จะเข้ามามีบทบาทมากขึ้นในการยกระดับคุณภาพชีวิตประจำวัน",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bf_consumer-bio_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_PRACHACHART_CONSUMER_BIOTECHNOLOGY_MAY_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เทคโนโลยีชีวภาพสำหรับผู้บริโภค หรือ Consumer Biotechnology ซึ่งเป็นการนำความก้าวหน้าด้าน Biotechnology มาพัฒนาผลิตภัณฑ์หรือบริการที่สามารถใช้ได้ในชีวิตประจำวัน เพื่อสร้างเสริมสุขภาพ ตอบโจทย์เฉพาะบุคคล และส่งเสริมความยั่งยืน เป็นโอกาสแก่ผู้ประกอบการในการเปิดตลาดใหม่ ๆ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_PRACHACHART_CONSUMER_BIOTECHNOLOGY_MAY_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages14052025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
