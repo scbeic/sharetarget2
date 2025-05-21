@@ -1,0 +1,47 @@
+[
+    {
+        "type": "flex",
+        "altText": "ร่วมตอบแบบสำรวจสำรวจใจ ♡ คนไทยยุคใหม่ 'เลือกเช่า' หรือ 'เลือกซื้อ'",
+        "contents": 
+    {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/survey_consumer_2025.png",
+    "size": "full",
+    "aspectRatio": "25:40",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.surveymonkey.com/r/https://www.surveymonkey.com/r/SCB-EIC-LINEOA-Push-MAY-2025"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages21052025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#1f172b"
+  }
+}
+ }       
+]
