@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ส่งออก เม.ย. 2025 ยังดี แต่สัญญาณชะลอตัวจากสงครามการค้าเริ่มชัดขึ้น",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_export-apr_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/FLASH_EXPORTAPR_MAY_2025-LINEOA"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC ประเมิน (ณ 1 เมษายน 2025) แผ่นดินไหวที่เกิดขึ้นในวันที่ 28 มีนาคม 2025 มีผลกระทบเบื้องต้นต่อเศรษฐกิจไทยจำกัดประมาณ 3 หมื่นล้านบาท โดยผลกระทบจะกระจุกตัวอยู่ในภาคการท่องเที่ยว ธุรกิจอสังหาริมทรัพย์ และธุรกิจก่อสร้าง แต่ยังต้องติดตามการฟื้นความเชื่อมั่นของประชาชนและความเชื่อมั่นของนักท่องเที่ยวต่างชาติในระยะต่อไป",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/FLASH_EXPORTAPR_MAY_2025-LINEOA"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages26052025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
