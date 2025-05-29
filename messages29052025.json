@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "EU จัดไทยอยู่ในกลุ่มเสี่ยงต่ำด้านการตัดไม้ทำลายป่า หนุนโอกาสส่งออก ‘ยางพารา-ปาล์มน้ำมัน’ สู่ตลาดยุโรป",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_eudr_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EUDR-implication-SCBEIC"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "วันที่ 22 พฤษภาคม 2025 สหภาพยุโรป (EU) จัดให้ไทยอยู่ในกลุ่ม “เสี่ยงต่ำ” จากปัญหาการตัดไม้ทำลายป่า ตาม EUDR โดย SCB EIC ประเมินว่า ประเทศที่อยู่ในกลุ่ม “เสี่ยงต่ำ” มีโอกาสขยายการส่งออกสินค้า EUDR ทดแทนประเทศเสี่ยงปกติและเสี่ยงสูง ที่ปัจจุบันมีมูลค่าส่งออกไปยัง EU ราว 39,586 ล้านดอลลาร์สหรัฐ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EUDR-implication-SCBEIC"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages29052025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
