@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "กลยุทธ์จีนตั้งรับสงครามการค้า ความได้เปรียบจากความพร้อม",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bf_china-strategy_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_CHINASTRATEGY_THAIRATHMONEY_JUN_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "จีนเข้าสมรภูมิสงครามการค้ารอบใหม่นี้ด้วยกลยุทธ์ที่รอบคอบ เน้นจุดแข็งในการวางแผนระยะยาวลดการพึ่งพาสหรัฐฯ การควบคุมเสถียรภาพทางเศรษฐกิจ และการขยายพันธมิตร โดยรัฐบาลจีนคาดหวังว่ากลยุทธ์เตรียมการทั้งระยะสั้นและยาวไว้ในสงครามการค้ารอบนี้เพียงพอที่จะรักษาเสถียรภาพการเติบโตทางเศรษฐกิจ และลดทอนผลลบต่อประเทศได้",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_CHINASTRATEGY_THAIRATHMONEY_JUN_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages05062025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
