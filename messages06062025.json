@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "The Magic of Pride: Thinking Beyond the Rainbow",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/bf_pride_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICBRIEF_MAGIC_OF_PRIDE_NATIONTHAILAND_JUN_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Pride consumers today have higher expectations for meaningful contributions to their community. This shift creates both opportunities and challenges for Thailand in its efforts to become a top global Pride destination.",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICBRIEF_MAGIC_OF_PRIDE_NATIONTHAILAND_JUN_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages06062025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
