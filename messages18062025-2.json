@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ส่งออก พ.ค. 2025 แรงเกินคาด มูลค่าสูงสุดเป็นประวัติการณ์ SCB EIC มองผลกระทบด้านการค้าระหว่างประเทศจะรุนแรงและชัดเจนขึ้นในช่วงครึ่งหลังของปี 2025 เป็นต้นไป  ",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_export-may-2025_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/FLASH_EXPORTMAY_JUN_2025-SCBEIC"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC ปรับประมาณการส่งออกไทยทั้งปีลงเหลือ -0.1% จาก -0.4% จากประมาณการครั้งก่อน โดยผลกระทบด้านการค้าระหว่างประเทศจะรุนแรงและชัดเจนขึ้นในช่วงครึ่งหลังของปี 2025 เป็นต้นไป หลังจากที่หลายประเทศได้เร่งผลิตและส่งออกก่อนได้รับผลกระทบจากภาษีนำเข้าสหรัฐฯ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/FLASH_EXPORTMAY_JUN_2025-SCBEIC"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages18062025-2.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
