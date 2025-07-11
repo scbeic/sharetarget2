@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "การเจรจาสหรัฐฯ ที่ยังไม่ลุล่วงกับเส้นตาย 1 ส.ค. : นัยต่อไทย",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_us-tartiff_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/FLASH_Reciprocal-tariffs_JUL_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ตั้งแต่วันที่ 7 ก.ค. 2025 ทำเนียบขาวสหรัฐฯ ทยอยส่งหนังสือแจ้งเก็บภาษีศุลกากรตอบโต้ (Reciprocal Tariffs) อัตราล่าสุดให้ 23 ประเทศคู่ค้า  และเร่งให้ยื่นข้อเสนอที่ดีขึ้น พร้อมเลื่อนวันเริ่มบังคับใช้เป็น 1 ส.ค. สำหรับทุกประเทศ  SCB EIC มองภาษีตอบโต้ของสหรัฐฯ ล่าสุดที่ไทยอาจโดนเก็บสูงกว่าคู่แข่งสำคัญ เป็นความเสี่ยงเพิ่มเติมต่อเศรษฐกิจไทยใน 5 ประเด็นสำคัญ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/FLASH_Reciprocal-tariffs_JUL_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages11072025-2.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
