@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Import influx trap…กับดักเศรษฐกิจไทยในยุคพึ่งพานำเข้าสูง",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_import-influx-trap_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/INFOCUS_IMPORT_INFLUX_TRAP_JUL_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "สินค้านำเข้ากำลังก้าวขึ้นมามีบทบาททดแทนสินค้าที่ผลิตภายในประเทศ ทั้งในแง่การบริโภคและการส่งออก อีกทั้ง ยังพบสัญญาณที่อาจบ่งชี้ได้ว่า ธุรกิจภาคอุตสาหกรรมของไทยเกือบ 3,000 แห่ง เข้าข่ายดำเนินกิจการแบบซื้อมา–ขายไป ซึ่งบางส่วนเสี่ยงที่จะเป็นเพียงโรงงานแปรรูปเบื้องต้นหรือดำเนินกิจกรรมสวมสิทธิ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/INFOCUS_IMPORT_INFLUX_TRAP_JUL_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages14072025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
