@@ -1,91 +1,63 @@
 [
     {
-        "type": "flex",
-        "altText": "ร่วมตอบแบบสำรวจพฤติกรรมผู้บริโภค ซื้อง่าย จ่ายไหวไหม?",
-        "contents": {
-  "type": "bubble",
-  "size": "giga",
-  "hero": {
-    "type": "image",
-    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/AW_consumer_2025_Part_III-07.jpg",
-    "size": "full",
-    "aspectRatio": "20:14",
-    "aspectMode": "cover",
-    "action": {
-      "type": "uri",
-      "uri": "https://www.surveymonkey.com/r/EIC-CONSUMER-SURVEY-2025"
-    }
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "text",
-        "text": "Key summary",
-        "weight": "bold",
-        "size": "lg"
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "margin": "lg",
-        "spacing": "sm",
-        "contents": [
-          {
-            "type": "box",
-            "layout": "baseline",
-            "spacing": "sm",
-            "contents": [
-              {
-                "type": "text",
-                "text": "",
-                "wrap": true,
-                "color": "#666666",
-                "size": "sm",
-                "flex": 5
-              }
-            ]
-          }
-        ]
+  "type": "flex",
+  "altText": "ร่วมตอบแบบสำรวจพฤติกรรมผู้บริโภค ซื้อง่าย จ่ายไหวไหม?",
+  "contents": {
+    "type": "bubble",
+    "size": "giga",
+    "hero": {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/AW_consumer_2025_Part_III-07.jpg",
+      "size": "full",
+      "aspectRatio": "9:14",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://www.surveymonkey.com/r/EIC-CONSUMER-SURVEY-2025"
       }
-    ]
-  },
-  "footer": {
-    "type": "box",
-    "layout": "vertical",
-    "spacing": "sm",
-    "contents": [
-      {
-        "type": "button",
-        "style": "primary",
-        "height": "sm",
-        "action": {
-          "type": "uri",
-          "label": "ตอบแบบสำรวจ",
-          "uri": "https://www.surveymonkey.com/r/EIC-CONSUMER-SURVEY-2025"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "paddingAll": "0px",
+      "spacing": "none",
+      "contents": []
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "primary",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "ตอบแบบสำรวจ",
+            "uri": "https://www.surveymonkey.com/r/EIC-CONSUMER-SURVEY-2025"
+          },
+          "color": "#4e2e79"
         },
-        "color": "#4e2e79"
-      },
-      {
-        "type": "button",
-        "style": "secondary",
-        "height": "sm",
-        "action": {
-          "type": "uri",
-          "label": "Share Line",
-          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages20082025.json"
+        {
+          "type": "button",
+          "style": "secondary",
+          "height": "sm",
+          "action": {
+            "type": "uri",
+            "label": "Share Line",
+            "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages20082025.json"
+          }
         }
-      },
-      {
-        "type": "box",
-        "layout": "vertical",
-        "contents": [],
-        "margin": "sm"
-      }
-    ],
-    "flex": 0
+      ],
+      "flex": 0
+    }
   }
 }
-    }
+
+
+
+
+
+
 ]
