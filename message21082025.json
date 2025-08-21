@@ -1,0 +1,92 @@
+
+[
+    {
+        "type": "flex",
+        "altText": "แม้การเจรจาภาษีลดลงเหลือ 19% แต่ผลจากสงครามการค้าท่ามกลางความเปราะบางในประเทศ ยังกดดันเศรษฐกิจไทยเสี่ยงโตต่ำต่อเนื่องนาน",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/monthly-aug-2025_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/EICMONTHLY-AUG-2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC มองเศรษฐกิจไทยขยายตัว 1.8% ในปีนี้ และ 1.5% ในปี 2026 ปรับดีขึ้นบ้างจากผลการเร่ง Front-loading สินค้าส่งออกในช่วงก่อนสหรัฐฯ เริ่มเก็บภาษีนำเข้าสูง แต่แรงส่งหลักของเศรษฐกิจจะทยอยแผ่วลงในช่วงครึ่งหลังของปี การส่งออกหดตัวหลังสหรัฐฯ เริ่มเก็บภาษีตอบโต้ การท่องเที่ยวชะลอ และการลงทุนภาครัฐเบิกจ่ายล่าช้ากว่าคาด",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/EICMONTHLY-AUG-2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/message21082025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
