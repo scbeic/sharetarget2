@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ผู้บริโภคไทยคิดอย่างไรกับโซลาร์รูฟท็อป? เจาะอินไซต์สำคัญที่ภาครัฐและผู้ประกอบการต้องรู้",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_earthquake_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://bit.ly/INFOCUS-SOLAR-ROOFTOP-AUG-2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "การติดตั้งโซลาร์รูฟท็อปสำหรับที่อยู่อาศัยในประเทศไทย ยังต่ำกว่าศักยภาพมาก สะท้อนว่าผู้บริโภคยังเผชิญอุปสรรคในการนำเอาเทคโนโลยีมาใช้ โดยกระทรวงพลังงานประเมินว่าในปี 2023 ศักยภาพรวมสำหรับที่อยู่อาศัยอยู่ที่ราว 121,000  เมกะวัตต์ ขณะที่ปริมาณการติดตั้งสะสมในปี 2022 ยังอยู่เพียง 1,893 เมกะวัตต์ หรือประมาณ 1.6% ของศักยภาพทั้งหมด",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/INFOCUS-SOLAR-ROOFTOP-AUG-2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages22082025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
