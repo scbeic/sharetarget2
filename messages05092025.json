@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "Dedollarization : เมื่อดอลลาร์สหรัฐอาจไม่ใช่ศูนย์กลางของระบบการเงินโลกอีกต่อไป",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_dedollar_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.scbeic.com/th/detail/product/Dedollarization-050925?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=INFOCUS_DEDOLLARIZATION_SEP_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ความสำคัญของดอลลาร์สหรัฐ จะทยอยลดลงจากความเชื่อมั่นต่อเศรษฐกิจสหรัฐฯ และความสำคัญของเศรษฐกิจสหรัฐฯ ที่ลดลง แต่ SCB EIC มองว่า ดอลลาร์สหรัฐจะยังเป็นสกุลเงินหลักในระบบการเงินของโลกต่อไป เพราะโครงสร้างพื้นฐานทางการเงินของสหรัฐฯ นับว่ามีความก้าวหน้าที่สุดในโลก",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://www.scbeic.com/th/detail/product/Dedollarization-050925?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=INFOCUS_DEDOLLARIZATION_SEP_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages05092025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
