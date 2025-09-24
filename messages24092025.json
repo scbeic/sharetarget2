@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "กำแพงภาษีสหรัฐฯ กระทบชัดขึ้น ส่งออก ส.ค. ชะลอลงมาก,
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_export-aug-2025_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.scbeic.com/th/detail/product/trade-240925?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=FLASH_EXPORTAUG_SEP_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "มูลค่าส่งออกสินค้าเดือน ส.ค. 2025 อยู่ที่ 27,743.19 ล้านดอลลาร์สหรัฐขยายตัวชะลอลงเหลือ 5.8% SCB EIC คาดมูลค่าส่งออกไทยในช่วง 5 เดือนที่เหลือของปีนี้เสี่ยงหดตัวจากภาษีตอบโต้ของสหรัฐฯ ที่เริ่มเห็นผลตั้งแต่เดือน ส.ค. และ Specific tariffs ที่สหรัฐฯ เตรียมประกาศเพิ่ม โดยเฉพาะสินค้าอิเล็กทรอนิกส์",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://www.scbeic.com/th/detail/product/trade-240925?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=FLASH_EXPORTAUG_SEP_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages24092025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
