@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "บาทแข็งค่ามากสุดในรอบ 4 ปี นำค่าเงินภูมิภาค ลดทอนความสามารถในการแข่งขันของการส่งออกไทยเพิ่มเติมจากปัจจัยภาษีทรัมป์",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_th-baht_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.scbeic.com/th/detail/product/Thai-Baht-250925?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=INFOCUS_Thai-Baht_SEP_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เงินบาทแข็งค่ามากสุดในรอบ 4 ปี นำค่าเงินภูมิภาคจากทั้งปัจจัยภายนอกโดยเฉพาะการอ่อนค่าของ USD และปัจจัยเฉพาะภายในของไทย SCB EIC มองธุรกิจที่ได้รับผลกระทบจากบาทแข็ง เป็นธุรกิจที่เน้นผลิตเพื่อส่งออกและใช้ปัจจัยการผลิตในประเทศสูง รวมถึงธุรกิจบริการที่พึ่งพารายได้ต่างชาติมาก",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://www.scbeic.com/th/detail/product/Thai-Baht-250925?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=INFOCUS_Thai-Baht_SEP_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages25092025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
