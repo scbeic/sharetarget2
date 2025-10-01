@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "รัฐบาลประกาศนโยบายปรับเป้า Net zero เร็วขึ้น 15 ปี : จุดเปลี่ยนครั้งใหญ่ เขย่าอนาคตอุตสาหกรรมไทย  ",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_netzero_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.scbeic.com/th/detail/product/Net-zero-2050-011025?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=FLASH_NETZERO2050_SEP_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "นโยบาย Net zero 2050 ไม่ใช่แค่เรื่องสิ่งแวดล้อม แต่คือความอยู่รอดของอุตสาหกรรมไทยในเวทีโลก ธุรกิจที่ปรับตัวทันจะได้เปรียบ ส่วนธุรกิจที่ปรับตัวได้ช้าอาจถูกทิ้งไว้ข้างหลัง ดังนั้น ภาคธุรกิจต้องเริ่มลงมือและผสานการลดคาร์บอนเป็นส่วนหนึ่งของกลยุทธ์หลักตั้งแต่วันนี้",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://www.scbeic.com/th/detail/product/Net-zero-2050-011025?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=FLASH_NETZERO2050_SEP_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages01102025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
