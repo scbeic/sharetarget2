@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "ภาคก่อสร้างไทย รับมือให้ไหวกับการเข้ามาของผู้รับเหมาจีน",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_chinese-constructors_lineoa.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.scbeic.com/th/detail/product/Chinese-contractors-071025?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=INFOCUS_CHINESE_CONTRACTORS_OCT_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ผู้รับเหมาไทยควรเร่งสร้างขีดความสามารถในการแข่งขัน ด้วยการนำเทคโนโลยีมาใช้ รวมถึงการสร้างพันธมิตรกับผู้รับเหมาต่างชาติอื่น ๆ เพื่อเปิดโอกาสรับการถ่ายทอดเทคโนโลยี สำหรับภาครัฐต้องสร้างความสมดุลระหว่างการส่งเสริมการลงทุนสำหรับผู้รับเหมาต่างชาติ และการปกป้องผู้รับเหมาไทย ควบคู่ไปกับการส่งเสริมขีดความสามารถให้ผู้รับเหมาไทย",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://bit.ly/Flash_Earthquake_Apr_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages07102025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
