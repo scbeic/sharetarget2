@@ -1,0 +1,91 @@
+[
+    {
+        "type": "flex",
+        "altText": "เศรษฐกิจไทยอ่อนแรง ส่งออกเริ่มแผ่ว และความเสี่ยงเงินฝืดสูงขึ้น มองชุดนโยบาย Quick Big Win จะช่วยพยุงเศรษฐกิจได้ในระยะสั้น แต่ผลต่อ GDP ยังมีจำกัด",
+        "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/eicmonthly10.jpg",
+    "size": "full",
+    "aspectRatio": "20:14",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.scbeic.com/th/detail/product/eic-monthly-1025?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=EICMONTHLY_OCT_2025"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Key summary",
+        "weight": "bold",
+        "size": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "SCB EIC ประเมินแนวโน้มเศรษฐกิจไทยในปีนี้และปีหน้าขยายตัวต่ำ 1.8% และ 1.5% ตามลำดับ เสี่ยงโตไม่ถึง 1% ในช่วงครึ่งหลังปีนี้ยาวถึงครึ่งแรกปีหน้า การส่งออกมีสัญญาณชะลอตัวหลังสหรัฐฯ เก็บภาษีไทย 19% สะท้อนความจำเป็นของนโยบายประคองเศรษฐกิจ แม้ตัวเลขส่งออกเดือน ส.ค. ยังขยายตัวได้ 5.8% แต่ชะลอลงมากจากเดือนก่อน หมวดสินค้าที่ขยายตัวได้มาจากปัจจัยเฉพาะ",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Read more",
+          "uri": "https://www.scbeic.com/th/detail/product/eic-monthly-1025?utm_source=EIC_LINEOA&utm_medium=Link&utm_campaign=EICMONTHLY_OCT_2025"
+        },
+        "color": "#4e2e79"
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages17102025monthly.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+    }
+]
