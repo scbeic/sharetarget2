@@ -1,0 +1,47 @@
+[
+    {
+        "type": "flex",
+        "altText": "SCB EIC client survey 2025 แค่ 5 นาที ช่วยพัฒนา SCB EIC ได้!",
+        "contents": 
+    {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/client_survey_2025_lineoa.png",
+    "size": "full",
+    "aspectRatio": "25:39",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://forms.office.com/r/j46nTUhmY5"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages24102025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#1f172b"
+  }
+}
+ }       
+]
