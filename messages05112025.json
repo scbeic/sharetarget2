@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "Thailand’s Regulatory Reform : รีเซ็ตกฎเกณฑ์ภาครัฐ เปลี่ยนเบรกเป็นคันเร่งเพิ่มประสิทธิภาพ เอื้อให้ธุรกิจไทยแข่งขันได้",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_th-regulatory reform_lineoa.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/th/detail/product/Regulatory-Reform-051125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "อันดับความสามารถในการแข่งขันของไทยในปี 2025 (โดย IMD) ร่วงลงมาอยู่ที่อันดับ 30 จาก 69 ประเทศทั่วโลก (จากอันดับ 25 ในปี 2024) โดยเฉพาะด้าน “ประสิทธิภาพภาครัฐ” ที่ปรับแย่ลงมากสุดในรอบ 10 ปี คำถามสำคัญคือ ไทยจะแก้ไขกฎเกณฑ์ภาครัฐอย่างไร เพื่อสนับสนุนให้ธุรกิจสามารถแข่งขันได้ อ่านต่อในบทความ",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/th/detail/product/Regulatory-Reform-051125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages05112025.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
