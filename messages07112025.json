@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "Tourism war : เร่งปรับทัพท่องเที่ยวไทย พลิกเกมดึงดูดนักท่องเที่ยวทั่วโลก",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/in_tourism-war_lineoa.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/th/detail/product/Tourism-war-071125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "สงครามการท่องเที่ยวในเอเชีย หรือ Tourism war กำลังเข้มข้นจากการที่หลายประเทศปรับยุทธศาสตร์ให้ภาคการท่องเที่ยวเป็นเครื่องยนต์หลักขับเคลื่อนเศรษฐกิจ",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/th/detail/product/Tourism-war-071125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages07112025.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
