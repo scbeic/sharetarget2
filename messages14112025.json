@@ -1,0 +1,153 @@
+[
+  {
+    "type": "flex",
+    "altText": "อุตสาหกรรมยานยนต์ไทยได้ผ่านจุดต่ำสุดไปแล้ว แต่การฟื้นตัวในระยะข้างหน้าจะยังไม่ทั่วถึง และมีความท้าทายอีกมากรออยู่",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.scbeic.com/stocks/product/f0x0/nt/07/hcvjnt07dt/Automotive-Industry-111125.jpg",
+            "size": "full",
+            "aspectRatio": "20:14",
+            "aspectMode": "cover",
+            "action": {
+              "type": "uri",
+              "uri": "https://www.scbeic.com/th/detail/product/Automotive-Industry-111125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "position": "absolute",
+            "background": {
+              "type": "linearGradient",
+              "angle": "0deg",
+              "startColor": "#00000000",
+              "endColor": "#000000CC"
+            },
+            "width": "100%",
+            "height": "100%",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://phanumard.github.io/burave/eic-logo-black.png",
+                "size": "xs",
+                "align": "start"
+              }
+            ],
+            "position": "absolute",
+            "offsetTop": "0px",
+            "offsetStart": "20px",
+            "width": "80px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "อุตสาหกรรมยานยนต์ไทยได้ผ่านจุดต่ำสุดไปแล้ว แต่การฟื้นตัวในระยะข้างหน้าจะยังไม่ทั่วถึง และมีความท้าทายอีกมากรออยู่",
+                "size": "18px",
+                "color": "#FFFFFF",
+                "weight": "regular",
+                "wrap": true,
+                "style": "normal",
+                "decoration": "none"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "separator",
+                    "color": "#BD8B66",
+                    "margin": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Industry insight",
+                    "size": "5px",
+                    "color": "#FFFFFF",
+                    "weight": "regular",
+                    "wrap": true,
+                    "margin": "xs"
+                  }
+                ],
+                "margin": "xs",
+                "width": "auto"
+              }
+            ],
+            "position": "absolute",
+            "offsetBottom": "18px",
+            "offsetStart": "20px",
+            "offsetEnd": "20px"
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg",
+            "margin": "none"
+          },
+          {
+            "type": "text",
+            "text": "ตลาดรถยนต์ไทยหดตัวชะลอลงในปี 2025 และมีแนวโน้มกลับมาเติบโตได้บ้างในปี 2026 แต่การฟื้นตัวยังไม่ทั่วถึงนัก",
+            "size": "sm",
+            "color": "#666666",
+            "margin": "md",
+            "wrap": true
+          }
+        ],
+        "spacing": "md"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/th/detail/product/Automotive-Industry-111125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#6B46C1"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages14112025.json"
+            }
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
