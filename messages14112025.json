@@ -1,7 +1,7 @@
 [
   {
     "type": "flex",
-    "altText": "อุตสาหกรรมยานยนต์ไทยได้ผ่านจุดต่ำสุดไปแล้ว แต่การฟื้นตัวในระยะข้างหน้าจะยังไม่ทั่วถึง และมีความท้าทายอีกมากรออยู่",
+    "altText": "ตลาดแรงงานไทยเปราะบางมากขึ้น แรงงาน\nต้องเร่งปรับตัวรับมือความเสี่ยงรอบด้าน",
     "contents": {
       "type": "bubble",
       "size": "giga",
@@ -11,13 +11,13 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://www.scbeic.com/stocks/product/f0x0/nt/07/hcvjnt07dt/Automotive-Industry-111125.jpg",
+            "url": "https://www.scbeic.com/stocks/product/f0x0/9v/y6/hcvk9vy6pi/Labor-market-111125.jpg",
             "size": "full",
             "aspectRatio": "20:14",
             "aspectMode": "cover",
             "action": {
               "type": "uri",
-              "uri": "https://www.scbeic.com/th/detail/product/Automotive-Industry-111125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+              "uri": "https://www.scbeic.com/th/detail/product/Labor-market-111125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
             }
           },
           {
@@ -59,7 +59,7 @@
             "contents": [
               {
                 "type": "text",
-                "text": "อุตสาหกรรมยานยนต์ไทยได้ผ่านจุดต่ำสุดไปแล้ว แต่การฟื้นตัวในระยะข้างหน้าจะยังไม่ทั่วถึง และมีความท้าทายอีกมากรออยู่",
+                "text": "ตลาดแรงงานไทยเปราะบางมากขึ้น แรงงาน\nต้องเร่งปรับตัวรับมือความเสี่ยงรอบด้าน",
                 "size": "18px",
                 "color": "#FFFFFF",
                 "weight": "regular",
@@ -78,8 +78,8 @@
                   },
                   {
                     "type": "text",
-                    "text": "Industry insight",
-                    "size": "5px",
+                    "text": "SCB EIC brief",
+                    "size": "10px",
                     "color": "#FFFFFF",
                     "weight": "regular",
                     "wrap": true,
@@ -110,7 +110,7 @@
           },
           {
             "type": "text",
-            "text": "ตลาดรถยนต์ไทยหดตัวชะลอลงในปี 2025 และมีแนวโน้มกลับมาเติบโตได้บ้างในปี 2026 แต่การฟื้นตัวยังไม่ทั่วถึงนัก",
+            "text": "ตลาดแรงงานไทยส่งสัญญาณเปราะบางมากขึ้น ทั้งจากปัจจัยภายในและภายนอกประเทศ",
             "size": "sm",
             "color": "#666666",
             "margin": "md",
@@ -131,7 +131,7 @@
             "action": {
               "type": "uri",
               "label": "Read more",
-              "uri": "https://www.scbeic.com/th/detail/product/Automotive-Industry-111125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+              "uri": "https://www.scbeic.com/th/detail/product/Labor-market-111125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
             },
             "color": "#6B46C1"
           },
