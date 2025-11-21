@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "SCB EIC ปรับเพิ่มการขยายตัวเศรษฐกิจไทยปี 2025 โต 2.1% ได้แรงหนุนส่งออกและมาตรการกระตุ้นภาครัฐ มองเศรษฐกิจปี 2026 ขยายตัวต่ำ 1.5% ผลกระทบภาษีสหรัฐฯ จะชัดเจนขึ้นท่ามกลางความเปราะบางในประเทศที่ยังมีอยู่มาก",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/monthly_nov-2025_lineoa-2.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/th/detail/product/eic-monthly-1125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "SCB EIC ปรับเพิ่มประมาณการเศรษฐกิจไทยปี 2025 เป็น 2.1% (เดิม 1.8%) จากการส่งออกสินค้าที่ขยายตัวสูงกว่าคาดมาก โดยมีแรงหนุนส่งออกทองคำ วัฏจักรอิเล็กทรอนิกส์โลก และเศรษฐกิจโลกที่รับมือภาษีสหรัฐฯ ได้ดี",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/th/detail/product/eic-monthly-1125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages21112025-2.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
