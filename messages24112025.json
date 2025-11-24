@@ -1,0 +1,47 @@
+[
+    {
+        "type": "flex",
+        "altText": "ร่วมตอบแบบสำรวจ When Life Goes Digital : เทคโนโลยีดิจิทัลมีผลต่อชีวิตคุณอย่างไร",
+        "contents": 
+    {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/aw_consumer_2025_part4_lineoa.png",
+    "size": "full",
+    "aspectRatio": "25:39",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://www.surveymonkey.com/r/EIC-CONSUMER-SURVEY-2025"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "Share",
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages24112025.json"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "margin": "sm"
+      }
+    ],
+    "flex": 0,
+    "backgroundColor": "#1f172b"
+  }
+}
+ }       
+]
