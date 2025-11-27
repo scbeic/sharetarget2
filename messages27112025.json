@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "Exports softened in October, but full-year growth remained firm on accumulated gains earlier in the year. Meanwhile, imports continued to accelerate, particularly for gold.",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/fl_export-oct-2025-en_lineoa.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/en/detail/product/trade-271125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "The value of Thai merchandise exports in October 2025 stood at USD 28,835 million, with growth slowing to 5.7%YOY from 19.0%YOY in the previous month and falling below expectations (SCB EIC estimated 9%). ",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/en/detail/product/trade-271125?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages27112025.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
