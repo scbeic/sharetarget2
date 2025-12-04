@@ -1,0 +1,46 @@
+[
+  {
+    "type": "flex",
+    "altText": "คนไทยยุคใหม่ 'เลือกเช่า' หรือ 'เลือกซื้อ' (EP.1) : ที่อยู่อาศัย & พาหนะส่วนตัว",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/owning-buying_infographic-v2.jpg",
+        "size": "full",
+        "aspectRatio": "25:47",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/th/detail/product/Buy-or-Rent-EP1-041225?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages04122025-2.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0,
+        "backgroundColor": "#1f172b"
+      }
+    }
+  }
+]
