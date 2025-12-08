@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "คนไทยยุคใหม่ 'เลือกเช่า' หรือ 'เลือกซื้อ' (EP.2) : ส่องแนวโน้มธุรกิจ 'เช่าใช้' … หมัดเด็ดปลุกตลาดเครื่องใช้ไฟฟ้าให้ยั่งยืน",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/Buy-or-Rent-EP2-081225.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/th/detail/product/Buy-or-Rent-EP2-081225?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "SCB EIC มองว่า รูปแบบธุรกิจ Subscription economy ในกลุ่มเครื่องใช้ไฟฟ้าอาจเป็นอีกหนึ่งช่องทางที่ช่วยเพิ่มรายได้ให้กับผู้ประกอบการเครื่องใช้ไฟฟ้าที่ไม่ต้องพึ่งพารายได้จากการซื้อขาดเพียงอย่างเดียว ขณะเดียวกันก็ถือได้ว่าเป็นการแบ่งเบาภาระทางการเงินสำหรับลูกค้ากลุ่มที่ไม่ต้องการใช้เงินก้อน ",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/th/detail/product/Buy-or-Rent-EP2-081225?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages08122025.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
