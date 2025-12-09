@@ -7,13 +7,13 @@
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://www.scbeic.com/stocks/product/o0x0/lk/9s/gtiklk9sl3/AW_Real_estate_2024_EIC-02-02.png",
+    "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/AW_consumer_2025_Part_IIII-01_Dim.png",
     "size": "full",
     "aspectRatio": "20:31",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
-      "uri": "https://www.surveymonkey.com/r/scbeic"
+      "uri": "https://www.surveymonkey.com/r/EIC-CONSUMER-SURVEY-2025"
     }
   },
   "footer": {
@@ -28,7 +28,7 @@
         "action": {
           "type": "uri",
           "label": "Share with LINE Friends",
-          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/popooing/sharetarget/main/messages.json"
+          "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages09122025-survey.json"
         },
         "color": "#4e2e79"
       },
