@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "SCB EIC believes the February 8 election results have lowered political risks to the economy, as a new government is expected to form quickly and restore stability.",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/lineoa_2026_20260227.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/en/detail/product/election2026-250226?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "The new government is likely to be able to assume office by May, implying that the process for preparing the FY2027 Budget Bill will be delayed by only 1–2 months. This is broadly in line with SCB EIC’s pre-election assessment and therefore is not expected to materially affect SCB EIC’s 2026 baseline macroeconomic assumptions, under which the Thai economy is projected to expand by 1.5%.",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/en/detail/product/election2026-250226?utm_source=EIC_LINEOA&utm_medium=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages27022026.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
