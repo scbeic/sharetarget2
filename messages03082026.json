@@ -1,0 +1,91 @@
+[
+  {
+    "type": "flex",
+    "altText": "SCB EIC sees CLMV growth moderating in 2026 as geopolitical shocks and trade risks test regional resilience.",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://raw.githubusercontent.com/scbeic/sharetarget2/main/lineoa_2026_20260724_clmv.jpg",
+        "size": "full",
+        "aspectRatio": "20:14",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://www.scbeic.com/en/detail/product/CLMV-outlook-Jul26-en?utm_source=EIC_LINEOA"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Key summary",
+            "weight": "bold",
+            "size": "lg"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "margin": "lg",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "SCB EIC expects CLMV growth to moderate to 6.2% in 2026 from 7.1% in 2025, marking a broad-based slowdown across all four economies. Cambodia is projected to grow by 3.7% (down from 5.3% in 2025), Lao PDR by 4.1% (from 4.8%), Vietnam by 7.1% (from 8.0%), and Myanmar by 2.6% (from 3.4%).",
+                    "wrap": true,
+                    "color": "#666666",
+                    "size": "sm",
+                    "flex": 5
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "primary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Read more",
+              "uri": "https://www.scbeic.com/en/detail/product/CLMV-outlook-Jul26-en?utm_source=EIC_LINEOA"
+            },
+            "color": "#4e2e79"
+          },
+          {
+            "type": "button",
+            "style": "secondary",
+            "height": "sm",
+            "action": {
+              "type": "uri",
+              "label": "Share",
+              "uri": "https://liff.line.me/1657155025-N4RBzQGX?messages=https://raw.githubusercontent.com/scbeic/sharetarget2/main/messages03082026.json"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  }
+]
